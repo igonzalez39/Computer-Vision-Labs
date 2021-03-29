@@ -1,0 +1,15 @@
+to find lab01.m
+	- go to file explorer
+	- go to Documents
+	- go to MATLAB
+	- select lab01.m so you can run it from here. The MATLAB folder is the main path way for running the MATLAB code
+
+to have the pics load correctly
+	- you need to make sure that the pics are in the MATLAB folder
+	- the lab pictures can be found in the CSE185 folder under each independent lab folders
+	- once photos are located import them into the MATLAB folder
+	- if names are similar simply change the file name for the jpg and for the code.
+
+DISCLAMER:
+	- the MATLAB folder in the document folder is used for actually running the code
+	- the CSE185 folder is simply used for organizing our class work and submitting 
